@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Round Robin Tournament Scheduler Interface",
   "main": "app.js",
+  "homepage": "http://https://github.com/RobV34/RobV34.github.io",
   "scripts": {
     "start": "node app.js",
     "predeploy": "node generateStaticFiles.js", 
